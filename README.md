@@ -8,5 +8,5 @@ Modulo de contron gestion y seguimientos de viajes.
 Dentro del repositorio se encuentra el Scrip de la base de datos MySQL
 usuario Conf:
 
-Usuario : root
-Pass: mora2017
+Usuario : Remisesgaspar
+Pass: Braile7130
