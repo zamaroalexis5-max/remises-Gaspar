@@ -4,8 +4,99 @@
     // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
 
+m        {
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
+            "type": "chrome",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Iniciar Chrome para localhost",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "type": "java",
+            "request": "launch",
+            "name": "Launch LaBarrera (LaBarrera.Inicio)",
+            "mainClass": "LaBarrera.Inicio",
+            "projectName": "LaBarrera",
+            "cwd": "${workspaceFolder}",
+            "preLaunchTask": "ant: build"
+        },
+        {
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
+            "type": "chrome",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Iniciar Chrome para localhost",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "type": "java",
+            "request": "launch",
+            "name": "Launch LaBarrera (LaBarrera.Inicio)",
+            "mainClass": "LaBarrera.Inicio",
+            "projectName": "LaBarrera",
+            "cwd": "${workspaceFolder}",
+            "preLaunchTask": "ant: build"
+        },
+        {
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
+            "type": "chrome",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Iniciar Chrome para localhost",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "type": "java",
+            "request": "launch",
+            "name": "Launch LaBarrera (LaBarrera.Inicio)",
+            "mainClass": "LaBarrera.Inicio",
+            "projectName": "LaBarrera",
+            "cwd": "${workspaceFolder}",
+            "preLaunchTask": "ant: build"
+        },
+        {
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
+            "type": "chrome",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Iniciar Chrome para localhost",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "type": "java",
+            "request": "launch",
+            "name": "Launch LaBarrera (LaBarrera.Inicio)",
+            "mainClass": "LaBarrera.Inicio",
+            "projectName": "LaBarrera",
+            "cwd": "${workspaceFolder}",
+            "preLaunchTask": "ant: build"
+        },
         {
             "name": "Attach to Chrome",
             "port": 9222,
@@ -21,4 +112,4 @@
             "webRoot": "${workspaceFolder}"
         }
     ]
-}
+}j
